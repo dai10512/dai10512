@@ -17,6 +17,7 @@ https://www.coursera.org/professional-certificates/meta-back-end-developer
 
 TrashOut(2022/6)
 This app is a simple notification app with adjusting complicated date, like 'seecond Tuesday'.
+
 https://trash-out-overview-web.web.app/
 
 
