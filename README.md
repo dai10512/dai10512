@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Daisuke, Flutter Engineer. My carear has started since 2021/12.
+I am Daisuke, Flutter Engineer. My carear has been started since 2021/12.
 Currently I try to expand my field, like Web front-end and back-end.
 
 Now I join in these course.
@@ -12,6 +12,12 @@ https://www.coursera.org/professional-certificates/meta-front-end-developer
 ### Meta Back-End Developper Certificate
 
 https://www.coursera.org/professional-certificates/meta-back-end-developer
+
+## My Portfolio
+
+TrashOut(2022/6)
+This app is a simple notification app with adjusting complicated date, like 'seecond Tuesday'.
+https://trash-out-overview-web.web.app/
 
 
 ## My hobby
