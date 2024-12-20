@@ -5,7 +5,7 @@ Currently I try to expand my field, like Web front-end and back-end.
 
 ## Certificate
 
-[### Meta Back-End Developper Certificate
+- [Meta Back-End Developper Certificate
 ](https://coursera.org/share/11492afa48c800dabf531159d0f085d2)
 
 
@@ -14,7 +14,8 @@ Currently I try to expand my field, like Web front-end and back-end.
 TrashOut(2022/6)
 This app is a simple notification app with adjusting complicated date, like 'seecond Tuesday'.
 
-https://trash-out-overview-web.web.app/
+- [TrashOut](https://trash-out-overview-web.web.app/
+)
 
 
 ## Hobby
