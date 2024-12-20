@@ -3,17 +3,13 @@
 I am Daisuke, Flutter Engineer. My carear has been started since 2021/12.
 Currently I try to expand my field, like Web front-end and back-end.
 
-Now I join in these course.
+## Certificate
 
-### Meta Front-End Developper Certificate
+[### Meta Back-End Developper Certificate
+](https://coursera.org/share/11492afa48c800dabf531159d0f085d2)
 
-https://www.coursera.org/professional-certificates/meta-front-end-developer
 
-### Meta Back-End Developper Certificate
-
-https://www.coursera.org/professional-certificates/meta-back-end-developer
-
-## My Portfolio
+## Portfolio
 
 TrashOut(2022/6)
 This app is a simple notification app with adjusting complicated date, like 'seecond Tuesday'.
@@ -21,12 +17,15 @@ This app is a simple notification app with adjusting complicated date, like 'see
 https://trash-out-overview-web.web.app/
 
 
-## My hobby
+## Hobby
 - jogging🏃
 - swimming🏊
 
 ## Location
 The most south of Japan, Okinawa🏝️
+
+## Language
+Japanse, Korean, English
 
 <!--
 **dai10512/dai10512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
