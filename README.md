@@ -6,14 +6,14 @@ My engineering career started in 2021/12, and I am currently expanding my field 
 
 ## Resume
 
-- [職務経歴書・スキルシート（Web）](https://resume.hono-my-app.workers.dev)
-- [職務経歴書 DOCX](https://resume.hono-my-app.workers.dev/resume.docx)
-- [スキルシート DOCX](https://resume.hono-my-app.workers.dev/skillsheet.docx)
+| | Web | PDF | DOCX |
+|---|---|---|---|
+| 職務経歴書 | [見る](https://resume.hono-my-app.workers.dev/resume/) | [開く](https://docs.google.com/viewer?url=https://resume.hono-my-app.workers.dev/resume.pdf) | [DL](https://resume.hono-my-app.workers.dev/resume.docx) |
+| スキルシート | [見る](https://resume.hono-my-app.workers.dev/skillsheet/) | [開く](https://docs.google.com/viewer?url=https://resume.hono-my-app.workers.dev/skillsheet.pdf) | [DL](https://resume.hono-my-app.workers.dev/skillsheet.docx) |
 
 ## Certificate
 
-- [Meta Back-End Developper Certificate
-](https://coursera.org/share/11492afa48c800dabf531159d0f085d2)
+- [Meta Back-End Developper Certificate](https://coursera.org/share/11492afa48c800dabf531159d0f085d2)
 
 
 ## Portfolio
@@ -37,7 +37,7 @@ My engineering career started in 2021/12, and I am currently expanding my field 
 The most south of Japan, Okinawa🏝️
 
 ## Language
-Japanse, Korean, English
+Japanese, Korean, English
 
 <!--
 **dai10512/dai10512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
