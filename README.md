@@ -21,6 +21,7 @@ My engineering career started in 2021/12, and I am currently expanding my field 
 ### TrashOut (2022/6)
 
 収集ゴミ通知アプリ。曜日ごとにゴミの種類を登録すると、当日の収集ゴミを通知してくれます。
+LP は Flutter Web で制作し、Firebase Hosting でデプロイしています。
 
 > ⚠️ LP の初回表示に10秒ほどかかる場合があります。
 
