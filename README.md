@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I am Daisuke, Flutter Engineer. My carear has been started since 2021/12.
-Currently I try to expand my field, like Web front-end and back-end.
+I am Daisuke, a Flutter Engineer based in Okinawa, Japan.
+Before becoming an engineer, I spent 8 years as a local government official.
+My engineering career started in 2021/12, and I am currently expanding my field into Web front-end and back-end development.
 
 ## Resume
 
