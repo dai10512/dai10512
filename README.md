@@ -6,10 +6,10 @@ My engineering career started in 2021/12, and I am currently expanding my field 
 
 ## Resume
 
-| | Web | PDF | DOCX |
-|---|---|---|---|
-| 職務経歴書 | [見る](https://resume.hono-my-app.workers.dev/resume/) | [開く](https://docs.google.com/viewer?url=https://resume.hono-my-app.workers.dev/resume.pdf) | [DL](https://resume.hono-my-app.workers.dev/resume.docx) |
-| スキルシート | [見る](https://resume.hono-my-app.workers.dev/skillsheet/) | [開く](https://docs.google.com/viewer?url=https://resume.hono-my-app.workers.dev/skillsheet.pdf) | [DL](https://resume.hono-my-app.workers.dev/skillsheet.docx) |
+| | PDF | DOCX |
+|---|---|---|
+| 職務経歴書 | [開く](https://resume.hono-my-app.workers.dev/resume.pdf) | [DL](https://resume.hono-my-app.workers.dev/resume.docx) |
+| スキルシート | [開く](https://resume.hono-my-app.workers.dev/skillsheet.pdf) | [DL](https://resume.hono-my-app.workers.dev/skillsheet.docx) |
 
 ## Certificate
 
