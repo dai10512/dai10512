@@ -17,11 +17,15 @@ Currently I try to expand my field, like Web front-end and back-end.
 
 ## Portfolio
 
-TrashOut(2022/6)
-This app is a simple notification app with adjusting complicated date, like 'seecond Tuesday'.
+### TrashOut (2022/6)
 
-- [TrashOut](https://trash-out-overview-web.web.app/
-)
+収集ゴミ通知アプリ。曜日ごとにゴミの種類を登録すると、当日の収集ゴミを通知してくれます。
+
+> ⚠️ LP の初回表示に10秒ほどかかる場合があります。
+
+- [LP を見る](https://trash-out-overview-web.web.app/)
+
+![TrashOut](trashout.png)
 
 
 ## Hobby
@@ -36,15 +40,4 @@ Japanse, Korean, English
 
 <!--
 **dai10512/dai10512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
